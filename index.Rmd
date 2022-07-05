@@ -1,7 +1,20 @@
 ---
 title: "Social Dynamics Hub"
 description: |
-  Welcome to this course. I hope you enjoy it!
+  Welcome to this ope course on modeling complex social dynamics. We have prepared several modules as an interactive learning experience for you. Feel free to explore them in any order.
+author:
+  - name: André Calero Valdez
+    url: https://example.com
+    affiliation: Universität zu Lübeck
+    affiliation_url: https://example.com/affiliation
+  - name: Luisa Vervier
+    url: https://example.com
+    affiliation: RWTH Aachen University
+    affiliation_url: https://example.com/affiliation
+  - name: Johannes Nakayama
+    url: https://example.com
+    affiliation: RWTH Aachen University
+    affiliation_url: https://example.com/affiliation
 site: distill::distill_website
 ---
 

@@ -11,10 +11,23 @@
     {
       "path": "index.html",
       "title": "Social Dynamics Hub",
-      "description": "Welcome to this course. I hope you enjoy it!\n",
-      "author": [],
+      "description": "Welcome to this ope course on modeling complex social dynamics. We have prepared several modules as an interactive learning experience for you. Feel free to explore them in any order.\n",
+      "author": [
+        {
+          "name": "André Calero Valdez",
+          "url": "https://example.com"
+        },
+        {
+          "name": "Luisa Vervier",
+          "url": "https://example.com"
+        },
+        {
+          "name": "Johannes Nakayama",
+          "url": "https://example.com"
+        }
+      ],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-07-05T13:52:28+02:00"
+      "last_modified": "2022-07-05T13:55:28+02:00"
     }
   ],
   "collections": []
