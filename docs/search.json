@@ -5,8 +5,8 @@
       "title": "About this site",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2022-07-05T13:52:11+02:00"
+      "contents": "\nHeadline 1\nHeadline 2\nThis is normal text in a markdown file. We can set things in\nitalics or in bold or\nboth.\n\n\n\n",
+      "last_modified": "2022-07-05T14:09:16+02:00"
     },
     {
       "path": "index.html",
@@ -27,7 +27,7 @@
         }
       ],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-07-05T13:55:28+02:00"
+      "last_modified": "2022-07-05T14:09:16+02:00"
     }
   ],
   "collections": []

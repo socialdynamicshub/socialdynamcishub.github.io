@@ -8,3 +8,7 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+# Headline 1
+## Headline 2
+
+This is normal text in a markdown file. We can set things in *italics* or in **bold** or ***both***. 
