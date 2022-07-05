@@ -6,7 +6,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\nHeadline 1\nHeadline 2\nThis is normal text in a markdown file. We can set things in\nitalics or in bold or\nboth.\n\n\n\n",
-      "last_modified": "2022-07-05T14:09:16+02:00"
+      "last_modified": "2022-07-05T14:38:14+02:00"
     },
     {
       "path": "index.html",
@@ -27,7 +27,15 @@
         }
       ],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-07-05T14:09:16+02:00"
+      "last_modified": "2022-07-05T14:38:14+02:00"
+    },
+    {
+      "path": "netlogo.html",
+      "title": "Modules using Netlogo",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\nNetlogo Tutorial\nStep 1\nStep 2\nNext up we look at the segregation model as an agent-based model.\nPlease watch the video from the following URL.\nYouTube Video:\nVideo 2 NetLogo Model Library - Segregation\n\n\n\n",
+      "last_modified": "2022-07-05T14:38:15+02:00"
     }
   ],
   "collections": []

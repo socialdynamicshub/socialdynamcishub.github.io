@@ -1,0 +1,19 @@
+---
+title: "Modules using Netlogo"
+description: |
+  Some additional details about the website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Netlogo Tutorial
+
+## Step 1
+
+
+## Step 2
+Next up we look at the segregation model as an agent-based model. Please watch the video from the following URL.
+
+[YouTube Video: Video 2 NetLogo Model Library - Segregation](https://www.youtube.com/watch?v=cmnTsxOufP0)

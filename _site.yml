@@ -7,6 +7,8 @@ navbar:
   right:
     - text: "Home"
       href: index.html
+    - text: "Modules using Netlogo"
+      href: netlogo.html
     - text: "About"
       href: about.html
 output: distill::distill_article
