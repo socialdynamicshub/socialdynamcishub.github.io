@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-07-05T13:45:52+02:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Social Dynamics Hub",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-07-05T13:46:05+02:00"
+    }
+  ],
+  "collections": []
+}
