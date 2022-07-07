@@ -7,10 +7,16 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "Modules using Netlogo"
-      href: netlogo.html
-    - text: "Library gridABM"
-      href: gridabm/
+    - text: "Agent-based modeling"
+      menu:
+        - text: "Introduction to ABM"
+          href: agent-based-modeling/
+        - text: "Introduction to Netlogo (in German)"
+          href: netlogo.html
+    - text: "Libraries"
+      menu:
+        - text: "Library gridABM"
+          href: gridabm/
     - text: "About"
       href: about.html
     

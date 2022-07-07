@@ -1,19 +1,69 @@
 ---
-title: "Modules using Netlogo"
+title: "Einführung in Netlogo"
 description: |
-  Some additional details about the website
+  Welcome to this tutorial to Netlogo. This tutorial is completely **in German** and consists of several videos that guide you in learning Netlogo.
+  The videos were recorded as companions videos for a seminar held at the RWTH Aachen University.
+  
+  Willkommen zu diesem Tutorial zu Netlogo. Dieses Tutorial besteht aus mehreren Videos, die Sie beim Erlernen von Netlogo unterstützen.
+  Die Videos wurden als Begleitvideos für ein Seminar an der RWTH Aachen aufgenommen.
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# Netlogo Tutorial
+## Netlogo installieren
+Um Netlogo nutzen zu können, sollten Sie zunächst Netlogo installieren. Sie finden Netlogo [hier](https://ccl.northwestern.edu/netlogo/).
 
-## Step 1
+
+## Schritt 1 - Einleitung
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PEbIF-ZjFxY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Link YouTube Video: 1 - Einleitung Agentenbasierte Modellierung](https://www.youtube.com/watch?v=PEbIF-ZjFxY)
 
 
-## Step 2
+## Schritt 2 - Netlogo Modelle
 Next up we look at the segregation model as an agent-based model. Please watch the video from the following URL.
 
-[YouTube Video: Video 2 NetLogo Model Library - Segregation](https://www.youtube.com/watch?v=cmnTsxOufP0)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cmnTsxOufP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Link YouTube Video: Video 2 NetLogo Model Library - Segregation](https://www.youtube.com/watch?v=cmnTsxOufP0)
+
+
+## Schritt 3 - Turtles und Patches
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Kez1lSXRx9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+https://youtu.be/Kez1lSXRx9A
+
+## Schritt 4 - Unser erstes Modell
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/s5uzn1stQgQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+https://youtu.be/s5uzn1stQgQ
+
+## Schritt 5 - Kontexte, Fehler und Plots
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tC-aRA8ozhY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+https://youtu.be/tC-aRA8ozhY
+
+
+## Schritt 6 - Normalverteilte Daten und Histogramme plotten
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/f2LCJCiX3xM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+https://youtu.be/f2LCJCiX3xM
+
+
+## Schritt 7 - Links und lokale Variablen
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8Fmjb13dztg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+https://youtu.be/8Fmjb13dztg
+
+## Schritt 8 - Eigenschaften von Links
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dFL0B1bJH-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+https://youtu.be/dFL0B1bJH-Q

@@ -6,7 +6,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\nHeadline 1\nHeadline 2\nThis is normal text in a markdown file. We can set things in\nitalics or in bold or\nboth.\n\n\n\n",
-      "last_modified": "2022-07-07T09:50:05+02:00"
+      "last_modified": "2022-07-07T10:24:52+02:00"
     },
     {
       "path": "index.html",
@@ -27,15 +27,15 @@
         }
       ],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-07-07T09:50:06+02:00"
+      "last_modified": "2022-07-07T10:24:52+02:00"
     },
     {
       "path": "netlogo.html",
-      "title": "Modules using Netlogo",
-      "description": "Some additional details about the website",
+      "title": "Einführung in Netlogo",
+      "description": "Welcome to this tutorial to Netlogo. This tutorial is completely **in German** and consists of several videos that guide you in learning Netlogo.\nThe videos were recorded as companions videos for a seminar held at the RWTH Aachen University.\n\nWillkommen zu diesem Tutorial zu Netlogo. Dieses Tutorial besteht aus mehreren Videos, die Sie beim Erlernen von Netlogo unterstützen.\nDie Videos wurden als Begleitvideos für ein Seminar an der RWTH Aachen aufgenommen.",
       "author": [],
-      "contents": "\nNetlogo Tutorial\nStep 1\nStep 2\nNext up we look at the segregation model as an agent-based model.\nPlease watch the video from the following URL.\nYouTube Video:\nVideo 2 NetLogo Model Library - Segregation\n\n\n\n",
-      "last_modified": "2022-07-07T09:50:06+02:00"
+      "contents": "\nNetlogo installieren\nUm Netlogo nutzen zu können, sollten Sie zunächst Netlogo\ninstallieren. Sie finden Netlogo hier.\nSchritt 1 - Einleitung\n\n\nLink YouTube\nVideo: 1 - Einleitung Agentenbasierte Modellierung\nSchritt 2 - Netlogo Modelle\nNext up we look at the segregation model as an agent-based model.\nPlease watch the video from the following URL.\n\n\nLink YouTube\nVideo: Video 2 NetLogo Model Library - Segregation\nSchritt 3 - Turtles und\nPatches\n\n\nhttps://youtu.be/Kez1lSXRx9A\nSchritt 4 - Unser erstes\nModell\n\n\nhttps://youtu.be/s5uzn1stQgQ\nSchritt 5 - Kontexte,\nFehler und Plots\n\n\nhttps://youtu.be/tC-aRA8ozhY\nSchritt 6\n- Normalverteilte Daten und Histogramme plotten\n\n\nhttps://youtu.be/f2LCJCiX3xM\nSchritt 7 - Links und\nlokale Variablen\n\n\nhttps://youtu.be/8Fmjb13dztg\nSchritt 8 - Eigenschaften\nvon Links\n\n\nhttps://youtu.be/dFL0B1bJH-Q\n\n\n\n",
+      "last_modified": "2022-07-07T10:24:52+02:00"
     }
   ],
   "collections": []
