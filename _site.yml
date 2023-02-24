@@ -15,6 +15,8 @@ navbar:
           href: netlogo.html
     - text: "Graph Theory"
       href: "https://socialdynamicshub.github.io/basic-graph-theory/index.html"
+    - text: "Opinion Dynamics"
+      href: "https://socialdynamicshub.github.io/opinion-dynamics"
     - text: "Libraries"
       menu:
         - text: "Library gridABM"
