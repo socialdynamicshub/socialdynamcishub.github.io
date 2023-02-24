@@ -1,15 +1,14 @@
 ---
 title: "About this site"
 description: |
-  Some additional details about the website
+  Some additional details about this website!
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# Headline 1
-## Headline 2
+This website is an open website to contain tutorial methods on agent-based modeling.
+Feel free to contribute using our github repositories.
 
-This is normal text in a markdown file. We can set things in *italics* or in **bold** or ***both***. 
 

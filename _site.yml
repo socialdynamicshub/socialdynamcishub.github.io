@@ -13,6 +13,8 @@ navbar:
           href: agent-based-modeling/
         - text: "Introduction to Netlogo (in German)"
           href: netlogo.html
+    - text: "Graph Theory"
+      href: "https://socialdynamicshub.github.io/basic-graph-theory/index.html"
     - text: "Libraries"
       menu:
         - text: "Library gridABM"
